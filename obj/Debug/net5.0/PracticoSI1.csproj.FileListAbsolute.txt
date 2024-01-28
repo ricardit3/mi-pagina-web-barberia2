@@ -1,0 +1,162 @@
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.csproj.AssemblyReference.cache
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.GeneratedMSBuildEditorConfig.editorconfig
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.AssemblyInfoInputs.cache
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.AssemblyInfo.cs
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.csproj.CoreCompileInputs.cache
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.MvcApplicationPartsAssemblyInfo.cs
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.MvcApplicationPartsAssemblyInfo.cache
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\appsettings.Development.json
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\appsettings.json
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\PracticoSI1.exe
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\PracticoSI1.deps.json
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\PracticoSI1.runtimeconfig.json
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\PracticoSI1.runtimeconfig.dev.json
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\PracticoSI1.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\PracticoSI1.pdb
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Azure.Core.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Azure.Identity.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.SqlServer.Server.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Memory.Data.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.RazorTargetAssemblyInfo.cache
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\scopedcss\bundle\PracticoSI1.styles.css
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\staticwebassets\PracticoSI1.StaticWebAssets.Manifest.cache
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\staticwebassets\PracticoSI1.StaticWebAssets.Pack.cache
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\staticwebassets\msbuild.PracticoSI1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\staticwebassets\msbuild.build.PracticoSI1.props
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PracticoSI1.props
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PracticoSI1.props
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.csproj.CopyComplete
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\refint\PracticoSI1.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.pdb
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.genruntimeconfig.cache
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\obj\Debug\net5.0\ref\PracticoSI1.dll
+C:\universidad\materias\Sistema de informacion I\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\appsettings.Development.json
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\appsettings.json
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\PracticoSI1.exe
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\PracticoSI1.deps.json
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\PracticoSI1.runtimeconfig.json
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\PracticoSI1.runtimeconfig.dev.json
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\PracticoSI1.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\PracticoSI1.pdb
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Azure.Core.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Azure.Identity.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.SqlServer.Server.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Memory.Data.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Security.AccessControl.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.csproj.AssemblyReference.cache
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.AssemblyInfoInputs.cache
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.AssemblyInfo.cs
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.csproj.CoreCompileInputs.cache
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.MvcApplicationPartsAssemblyInfo.cs
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.MvcApplicationPartsAssemblyInfo.cache
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.RazorTargetAssemblyInfo.cache
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\scopedcss\bundle\PracticoSI1.styles.css
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\staticwebassets\PracticoSI1.StaticWebAssets.Manifest.cache
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\staticwebassets\PracticoSI1.StaticWebAssets.Pack.cache
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\staticwebassets\msbuild.PracticoSI1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\staticwebassets\msbuild.build.PracticoSI1.props
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PracticoSI1.props
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PracticoSI1.props
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.csproj.CopyComplete
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\refint\PracticoSI1.dll
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.pdb
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\PracticoSI1.genruntimeconfig.cache
+D:\HILDA-MATERIAS\Nueva carpeta\PracticoSI1\PracticoSI1\obj\Debug\net5.0\ref\PracticoSI1.dll
